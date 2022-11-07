@@ -19,11 +19,30 @@
 <a href="https://open.spotify.com/user/31ogqpmlusvhxt2gqykor3rqogim?si=6q7NXqW7SuyW0dVZpNw04Q">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>&nbsp;&nbsp;
+  
 </p>
 <p align='center'>
  <img src="https://gpvc.arturio.dev/iloveteajay" />
 </p>
+<!--  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=dev-tayy&theme=dracula&hide_border=true) 
+ -->
 
+<!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmmanuelAdeiza&theme=dracula" alt="EmmanuelAdeiza" /></a> </p> -->
+
+<p align='center'>
+ 
+  </p>
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-tayy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-tayy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-tayy&theme=github_dark)
+[![Adeiza's stats](https://github-readme-stats.vercel.app/api?username=dev-tayy&show_icons=true&theme=github_dark)](https://github.com/dev-tayy)
+  
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-tayy&theme=dracula) 
+ 
+<h2>My Github Profile Trophy🏆</h2>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=dev-tayy&column=7&theme=gruvbox&no-frame=true%22"/> -->
 
 <!--
 **iloveteajay/iloveteajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
