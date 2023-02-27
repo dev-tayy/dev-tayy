@@ -27,7 +27,8 @@
 <!--  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=dev-tayy&theme=dracula&hide_border=true) 
  -->
 
-<!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmmanuelAdeiza&theme=dracula" alt="EmmanuelAdeiza" /></a> </p> -->
+
+<!-- ![Tijani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tayy&theme=city_lights&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tayy&theme=city_lights&hide=html,shell,pug) -->
 
 <p align='center'>
  
