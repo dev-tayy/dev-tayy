@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Dart.</p>
+<p align='center'>Hi there! I'm a Software Engineer experienced in Flutter/Dart, Swift, and TypeScript/JS.<br />I'm passionate about building high-quality software and eager to collaborate with others to create awesome projects..</p>
 
 
 <p align='center'>
