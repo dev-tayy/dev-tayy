@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/iloveteajay/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://taycodes.dev">
+<a href="https://taycodes.hashnode.dev">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31ogqpmlusvhxt2gqykor3rqogim?si=6q7NXqW7SuyW0dVZpNw04Q">
