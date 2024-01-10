@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I'm a Software Engineer experienced in Flutter/Dart, Swift, and TypeScript/JS.<br />I'm passionate about building high-quality software and eager to collaborate with others to create awesome projects..</p>
+<p align='center'>I'm a Software Engineer experienced in Flutter/Dart and TypeScript/JS.<br />I'm passionate about building high-quality software and eager to collaborate with others to create awesome projects..</p>
 
 
 <p align='center'>
@@ -22,10 +22,9 @@
   
 </p>
 <p align='center'>
- <img src="https://gpvc.arturio.dev/iloveteajay" />
+![](https://komarev.com/ghpvc/?username=dev-tayy&style=for-the-badge)
 </p>
-<!--  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=dev-tayy&theme=dracula&hide_border=true) 
- -->
+
 
 
 <!-- ![Tijani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tayy&theme=city_lights&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tayy&theme=city_lights&hide=html,shell,pug) -->
