@@ -21,8 +21,8 @@
 </a>&nbsp;&nbsp;
   
 </p>
-<p align='center'>
-![](https://komarev.com/ghpvc/?username=dev-tayy&style=for-the-badge)
+<p align='center'>  
+<img src="https://komarev.com/ghpvc/?username=dev-tayy&style=for-the-badge">
 </p>
 
 
